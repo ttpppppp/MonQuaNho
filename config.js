@@ -19,7 +19,7 @@ var config = {
          "Happy Birthday <333",
          "Chúc mừng ngày sinh nhật đặc biệt của em. Anh chúc em mãi vui vẻ, lạc quan và hạnh phúc như bây giờ, anh sẽ cùng em thực hiện điều đó.",
          " Chúc em sớm hiện thực hóa ước mơ của mình, sống hạnh phúc trong tình yêu thương của mọi người xung quanh, đặc biệt là anh =))))))",
-         "Thi~~",
+         "25/8/2023~~",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
